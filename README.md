@@ -20,7 +20,7 @@
 ##
   
 <div>
-    <a href="github.com/Rodfc773/">
+    <a href="Rodfc773/">
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Rodfc773&show_icons=True&theme=midnight-purple"/>  
     <img heigth ="180en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodfc773&layout=compact&show_icons=True&theme=midnight-purple"/>
 </div>
