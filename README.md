@@ -7,7 +7,7 @@
 - 🖥 Data Science apprentice
 - :earth_americas: Member of an Extension Project called IAfut!   
 - 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
-- ⚡ Fun fact: I like to study Data science and Algorithms! :four_leaf_clover:
+- ⚡ Fun fact: I like to study Data science, Algorithms And Web Development! :four_leaf_clover:
 
 ##
 
