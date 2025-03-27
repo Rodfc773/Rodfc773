@@ -9,7 +9,7 @@ I'm a **Backend Developer** with a degree in **Computer Science** from **Federal
 - **Backend:** Node.js | TypeScript | Java | Spring Boot  
 - **Frontend:** React  
 - **Database:** PostgreSQL | MariaDB | MongoDB | MySQL | FireBase  
-- **Tools:** Prisma | Docker | Git | Linux  
+- **Tools:** AWS | Docker | ORM's | Git | Linux  
 
 ### 🏆 Experience
 
