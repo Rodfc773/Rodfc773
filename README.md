@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a **Backend Developer** with a degree in **Computer Science** from **Federal University of Alagoas (UFAL)**. Currently, I'm a Backend-end Devolper at **Orion Lab UFAL**, I also working as collaborate on a research project focused in **biochemistry**, analyzing insect behavior in response to pesticides using Data Science, Machine Learning and Information Theory methods.
+I'm a **Backend Developer** with a degree in **Computer Science** from **Federal University of Alagoas (UFAL)**. Currently, I'm working at **Orion Lab UFAL**, I also working as collaborate on a research project focused in **biochemistry**, analyzing insect behavior in response to pesticides using **Data Science**, **Machine Learning** and **Information Theory methods**.
 
 ### 💻 Tech Stack
 
