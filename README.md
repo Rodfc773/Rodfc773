@@ -6,7 +6,7 @@ I'm a **FullStack Developer** with a degree in **Computer Science** from **Feder
 
 ### 💻 Tech Stack
 
-- **Backend:** Node.js | TypeScript | Java | Spring Boot  
+- **Backend:**  Java | Spring Boot | Node.js | TypeScript | Python | FastAPI
 - **Frontend:** React  
 - **Database:** PostgreSQL | MariaDB | MongoDB | MySQL | FireBase  
 - **Tools:** AWS | Docker | ORM's | Git | Linux  
