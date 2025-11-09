@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a **FullStack Developer** with a degree in **Computer Science** from **Federal University of Alagoas (UFAL)**. Currently, I'm working at **Orion Lab UFAL**, I also working as collaborate on a research project focused in **biochemistry**, analyzing insect behavior in response to pesticides using **Data Science**, **Machine Learning** and **Information Theory methods**.
+I'm a **Software Engineer** with a degree in **Computer Science** focused in building scalable applications using as main stack Java with React. Currently, I'm working at **Wipro** as Java Developer.
 
 ### 💻 Tech Stack
 
@@ -13,7 +13,8 @@ I'm a **FullStack Developer** with a degree in **Computer Science** from **Feder
 
 ### 🏆 Experience
 
-I've worked as a **FullStack Developer**, where I developed **a web application for sleep quality analysis for a clinic**. My work mainly involves designing and implementing **APIs** and **web applications** to deliver the best user experience.
+- I've worked as a **FullStack Developer** in PlanBTech, where I developed **a web application for sleep quality analysis for a clinic**. My work mainly involves designing and implementing **APIs** and **web applications** to deliver the best user experience.
+- I've worked as Backend Developer in Orion Lab Ufal in a lwasuit IA project for the Attorney's General Office using Python and Java for the backend application.
 
 ### 📫 Contact Me
 
