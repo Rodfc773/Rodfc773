@@ -1,6 +1,6 @@
 # Hi there! I'm Rodrigo Ferreira 👋
 
-[cite_start]I am a **Software Engineer** graduated in **Computer Science**  [cite_start]and a **Java Architecture Specialist** in the making (FIAP). [cite_start]Currently, I build scalable, event-driven distributed systems at **Wipro**[cite: 20, 26, 31].
+I am a **Software Engineer** graduated in **Computer Science** and a **Java Architecture Specialist** in the making (FIAP). Currently, I build scalable, event-driven distributed systems at **Wipro**.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -13,9 +13,9 @@
 
 ### 🚀 Key Achievements
 
-* [cite_start]**Wipro (HP Project):** Reduced application bugs by **30%** [cite: 20, 26, 27] [cite_start]and boosted user acquisition by **20%** [cite: 28] [cite_start]through the development of core features using Java 17 [cite: 26] [cite_start]and Event-Driven Architecture (Kafka/RabbitMQ)[cite: 30, 31].
-* [cite_start]**Orion:** Automated data collection by building a Python web-scraping service, reducing manual search time by **15%**[cite: 34, 41, 42].
-* [cite_start]**PlanBTech:** Engineered a full-stack sleep clinic management system, implementing an automation that optimized patient metrics calculation by **20%**[cite: 44, 45, 46].
+* **Wipro (HP Project):** Reduced application bugs by **30%** [cite: 20, 26, 27] [cite_start]and boosted user acquisition by **20%** through the development of core features using Java 17 and Event-Driven Architecture (Kafka/RabbitMQ)[cite: 30, 31].
+* **Orion:** Automated data collection by building a Python web-scraping service, reducing manual search time by **15%**[cite: 34, 41, 42].
+* **PlanBTech:** Engineered a full-stack sleep clinic management system, implementing an automation that optimized patient metrics calculation by **20%**[cite: 44, 45, 46].
 
 ---
 
@@ -30,5 +30,5 @@
 
 ### 📫 Connect with me
 
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ferreira-correia/) [cite: 3]
-[cite_start][![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.fc773@gmail.com) [cite: 3]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-ferreira-correia/) [cite: 3]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.fc773@gmail.com) [cite: 3]
