@@ -13,9 +13,9 @@ I am a **Software Engineer** graduated in **Computer Science** and a **Java Arch
 
 ### 🚀 Key Achievements
 
-* **Wipro (HP Project):** Reduced application bugs by **30%** [cite: 20, 26, 27] [cite_start]and boosted user acquisition by **20%** through the development of core features using Java 17 and Event-Driven Architecture (Kafka/RabbitMQ)[cite: 30, 31].
-* **Orion:** Automated data collection by building a Python web-scraping service, reducing manual search time by **15%**[cite: 34, 41, 42].
-* **PlanBTech:** Engineered a full-stack sleep clinic management system, implementing an automation that optimized patient metrics calculation by **20%**[cite: 44, 45, 46].
+* **Wipro (HP Project):** Reduced application bugs by **30%** and boosted user acquisition by **20%** through the development of core features using Java 17 and Event-Driven Architecture (Kafka/RabbitMQ).
+* **Orion:** Automated data collection by building a Python web-scraping service, reducing manual search time by **15%**.
+* **PlanBTech:** Engineered a full-stack sleep clinic management system, implementing an automation that optimized patient metrics calculation by **20%**.
 
 ---
 
